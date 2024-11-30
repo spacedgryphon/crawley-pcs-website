@@ -1,5 +1,5 @@
 export const AUTH_CONFIG = {
-  ADMIN_EMAIL: 'shrekonmusk@gmail.com',
+  ADMIN_EMAIL: 'abc@gmail.com',
   ADMIN_PASSWORD: 'admin123', // This should be changed in production
   STORAGE_KEY: 'admin_user',
   SESSION_DURATION: 24 * 60 * 60 * 1000, // 24 hours
